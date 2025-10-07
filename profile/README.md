@@ -4,6 +4,8 @@
 
 Instead of juggling multiple programs, you can edit, catalog, and finish your photos within **one streamlined environment**.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://exposure-x7-software.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
@@ -17,6 +19,9 @@ Main highlights:
 * AI-powered masking & selection tools.
 * Built-in cataloging and keyword tagging.
 
+<img width="1180" height="738" alt="image" src="https://github.com/user-attachments/assets/3dac9310-3912-4f26-bb02-d28ed7e05215" />
+
+
 ---
 
 ## ✨ Key Features
@@ -28,6 +33,9 @@ Main highlights:
 * **Non-Destructive Workflow:** Original files remain untouched.
 * **Integrated File Management:** Organize with keywords, ratings, and color labels.
 * **Performance Optimized:** Multi-core CPU and GPU acceleration for fast previews.
+
+<img width="1705" height="887" alt="image" src="https://github.com/user-attachments/assets/0e6f008c-315d-4beb-9410-acc91a474021" />
+
 
 ---
 
@@ -44,6 +52,9 @@ Exposure X7 is available as a **standalone application** and as a plugin for maj
 
 \[!NOTE]
 Supports popular RAW files (Canon CR3, Sony ARW, Nikon NEF, Fujifilm RAF, etc.) and export to JPEG, TIFF, and PSD.
+
+<img width="1705" height="887" alt="image" src="https://github.com/user-attachments/assets/7d3b78bc-6abf-423b-88f8-fd827f515f50" />
+
 
 ---
 
@@ -66,6 +77,9 @@ Sky Mask: -0.5 stops
 Saturation: +10  
 Grain: 35% (medium)  
 ```
+
+<img width="1705" height="887" alt="image" src="https://github.com/user-attachments/assets/caafaed2-2426-45ec-8c2f-a21f2caad163" />
+
 
 ---
 
